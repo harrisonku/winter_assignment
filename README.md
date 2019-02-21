@@ -1,5 +1,3 @@
-# winter_assignment
-
 # 修改了以下地方
 
 1. epoch 30
